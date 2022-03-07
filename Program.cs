@@ -5,6 +5,7 @@
                 Console.WriteLine("Girmiş olduğunuz sayı : " + sayi);
             }
             catch (Exception ex) //Hata alındığında çalışır
+            {
                 Console.WriteLine("Hata :" + ex.Message.ToString());
             }
             finally //Hata olsun olmasın çalışır
@@ -16,7 +17,7 @@
 
             try
             {
-                Console.WriteLine("Bir sayı daha giriniz")
+                Console.WriteLine("Bir sayı daha giriniz");
                 int a = int.Parse(Console.ReadLine());
             }
             catch (ArgumentNullException ex)
