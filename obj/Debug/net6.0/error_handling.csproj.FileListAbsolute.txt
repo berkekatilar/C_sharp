@@ -1,0 +1,15 @@
+C:\Users\Berke Katılar\Desktop\c#\error_handling\bin\Debug\net6.0\error_handling.exe
+C:\Users\Berke Katılar\Desktop\c#\error_handling\bin\Debug\net6.0\error_handling.deps.json
+C:\Users\Berke Katılar\Desktop\c#\error_handling\bin\Debug\net6.0\error_handling.runtimeconfig.json
+C:\Users\Berke Katılar\Desktop\c#\error_handling\bin\Debug\net6.0\error_handling.dll
+C:\Users\Berke Katılar\Desktop\c#\error_handling\bin\Debug\net6.0\error_handling.pdb
+C:\Users\Berke Katılar\Desktop\c#\error_handling\obj\Debug\net6.0\error_handling.csproj.AssemblyReference.cache
+C:\Users\Berke Katılar\Desktop\c#\error_handling\obj\Debug\net6.0\error_handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berke Katılar\Desktop\c#\error_handling\obj\Debug\net6.0\error_handling.AssemblyInfoInputs.cache
+C:\Users\Berke Katılar\Desktop\c#\error_handling\obj\Debug\net6.0\error_handling.AssemblyInfo.cs
+C:\Users\Berke Katılar\Desktop\c#\error_handling\obj\Debug\net6.0\error_handling.csproj.CoreCompileInputs.cache
+C:\Users\Berke Katılar\Desktop\c#\error_handling\obj\Debug\net6.0\error_handling.dll
+C:\Users\Berke Katılar\Desktop\c#\error_handling\obj\Debug\net6.0\refint\error_handling.dll
+C:\Users\Berke Katılar\Desktop\c#\error_handling\obj\Debug\net6.0\error_handling.pdb
+C:\Users\Berke Katılar\Desktop\c#\error_handling\obj\Debug\net6.0\error_handling.genruntimeconfig.cache
+C:\Users\Berke Katılar\Desktop\c#\error_handling\obj\Debug\net6.0\ref\error_handling.dll
