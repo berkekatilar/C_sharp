@@ -1,0 +1,15 @@
+C:\Users\Berke Katılar\Desktop\c#\dizi_metodlar\bin\Debug\net6.0\dizi_metodlar.exe
+C:\Users\Berke Katılar\Desktop\c#\dizi_metodlar\bin\Debug\net6.0\dizi_metodlar.deps.json
+C:\Users\Berke Katılar\Desktop\c#\dizi_metodlar\bin\Debug\net6.0\dizi_metodlar.runtimeconfig.json
+C:\Users\Berke Katılar\Desktop\c#\dizi_metodlar\bin\Debug\net6.0\dizi_metodlar.dll
+C:\Users\Berke Katılar\Desktop\c#\dizi_metodlar\bin\Debug\net6.0\dizi_metodlar.pdb
+C:\Users\Berke Katılar\Desktop\c#\dizi_metodlar\obj\Debug\net6.0\dizi_metodlar.csproj.AssemblyReference.cache
+C:\Users\Berke Katılar\Desktop\c#\dizi_metodlar\obj\Debug\net6.0\dizi_metodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berke Katılar\Desktop\c#\dizi_metodlar\obj\Debug\net6.0\dizi_metodlar.AssemblyInfoInputs.cache
+C:\Users\Berke Katılar\Desktop\c#\dizi_metodlar\obj\Debug\net6.0\dizi_metodlar.AssemblyInfo.cs
+C:\Users\Berke Katılar\Desktop\c#\dizi_metodlar\obj\Debug\net6.0\dizi_metodlar.csproj.CoreCompileInputs.cache
+C:\Users\Berke Katılar\Desktop\c#\dizi_metodlar\obj\Debug\net6.0\dizi_metodlar.dll
+C:\Users\Berke Katılar\Desktop\c#\dizi_metodlar\obj\Debug\net6.0\refint\dizi_metodlar.dll
+C:\Users\Berke Katılar\Desktop\c#\dizi_metodlar\obj\Debug\net6.0\dizi_metodlar.pdb
+C:\Users\Berke Katılar\Desktop\c#\dizi_metodlar\obj\Debug\net6.0\dizi_metodlar.genruntimeconfig.cache
+C:\Users\Berke Katılar\Desktop\c#\dizi_metodlar\obj\Debug\net6.0\ref\dizi_metodlar.dll
