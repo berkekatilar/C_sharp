@@ -1,0 +1,15 @@
+C:\Users\Berke Katılar\Desktop\c#\odev_1\ödev_1\bin\Debug\net6.0\ödev_1.exe
+C:\Users\Berke Katılar\Desktop\c#\odev_1\ödev_1\bin\Debug\net6.0\ödev_1.deps.json
+C:\Users\Berke Katılar\Desktop\c#\odev_1\ödev_1\bin\Debug\net6.0\ödev_1.runtimeconfig.json
+C:\Users\Berke Katılar\Desktop\c#\odev_1\ödev_1\bin\Debug\net6.0\ödev_1.dll
+C:\Users\Berke Katılar\Desktop\c#\odev_1\ödev_1\bin\Debug\net6.0\ödev_1.pdb
+C:\Users\Berke Katılar\Desktop\c#\odev_1\ödev_1\obj\Debug\net6.0\ödev_1.csproj.AssemblyReference.cache
+C:\Users\Berke Katılar\Desktop\c#\odev_1\ödev_1\obj\Debug\net6.0\ödev_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berke Katılar\Desktop\c#\odev_1\ödev_1\obj\Debug\net6.0\ödev_1.AssemblyInfoInputs.cache
+C:\Users\Berke Katılar\Desktop\c#\odev_1\ödev_1\obj\Debug\net6.0\ödev_1.AssemblyInfo.cs
+C:\Users\Berke Katılar\Desktop\c#\odev_1\ödev_1\obj\Debug\net6.0\ödev_1.csproj.CoreCompileInputs.cache
+C:\Users\Berke Katılar\Desktop\c#\odev_1\ödev_1\obj\Debug\net6.0\ödev_1.dll
+C:\Users\Berke Katılar\Desktop\c#\odev_1\ödev_1\obj\Debug\net6.0\refint\ödev_1.dll
+C:\Users\Berke Katılar\Desktop\c#\odev_1\ödev_1\obj\Debug\net6.0\ödev_1.pdb
+C:\Users\Berke Katılar\Desktop\c#\odev_1\ödev_1\obj\Debug\net6.0\ödev_1.genruntimeconfig.cache
+C:\Users\Berke Katılar\Desktop\c#\odev_1\ödev_1\obj\Debug\net6.0\ref\ödev_1.dll
