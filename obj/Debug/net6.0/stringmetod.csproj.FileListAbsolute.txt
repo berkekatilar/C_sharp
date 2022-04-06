@@ -1,0 +1,15 @@
+C:\Users\Berke Katılar\Desktop\c#\stringmetod\bin\Debug\net6.0\stringmetod.exe
+C:\Users\Berke Katılar\Desktop\c#\stringmetod\bin\Debug\net6.0\stringmetod.deps.json
+C:\Users\Berke Katılar\Desktop\c#\stringmetod\bin\Debug\net6.0\stringmetod.runtimeconfig.json
+C:\Users\Berke Katılar\Desktop\c#\stringmetod\bin\Debug\net6.0\stringmetod.dll
+C:\Users\Berke Katılar\Desktop\c#\stringmetod\bin\Debug\net6.0\stringmetod.pdb
+C:\Users\Berke Katılar\Desktop\c#\stringmetod\obj\Debug\net6.0\stringmetod.csproj.AssemblyReference.cache
+C:\Users\Berke Katılar\Desktop\c#\stringmetod\obj\Debug\net6.0\stringmetod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berke Katılar\Desktop\c#\stringmetod\obj\Debug\net6.0\stringmetod.AssemblyInfoInputs.cache
+C:\Users\Berke Katılar\Desktop\c#\stringmetod\obj\Debug\net6.0\stringmetod.AssemblyInfo.cs
+C:\Users\Berke Katılar\Desktop\c#\stringmetod\obj\Debug\net6.0\stringmetod.csproj.CoreCompileInputs.cache
+C:\Users\Berke Katılar\Desktop\c#\stringmetod\obj\Debug\net6.0\stringmetod.dll
+C:\Users\Berke Katılar\Desktop\c#\stringmetod\obj\Debug\net6.0\refint\stringmetod.dll
+C:\Users\Berke Katılar\Desktop\c#\stringmetod\obj\Debug\net6.0\stringmetod.pdb
+C:\Users\Berke Katılar\Desktop\c#\stringmetod\obj\Debug\net6.0\stringmetod.genruntimeconfig.cache
+C:\Users\Berke Katılar\Desktop\c#\stringmetod\obj\Debug\net6.0\ref\stringmetod.dll
